@@ -1,0 +1,10 @@
+En esta tarea vamos a practicar la creación de listas y tablas.
+Volviendo a trabajar sobre nuestro index ya creado, vamos a crear una lista que próximamente la
+usaremos como barra de navegación (nav - dicha etiqueta la veremos la clase que viene).
+Crearemos una lista desordenada con al menos 4 ítems donde uno de ellos será “Contacto” que lo
+trabajaremos la próxima clase.
+
+El segundo ítem será “Horarios de atención” donde nos tiene que redireccionar a otra página
+donde tenga una tabla que nos diga los días con sus respectivos horarios de atención.
+
+Los dos ítems restantes se puede poner lo que resulte conveniente para el contenido de la página.
